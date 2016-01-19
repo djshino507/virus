@@ -1,0 +1,11 @@
+
+.txt {text-decoration: none; color: #0000FF; font-size: 10pt; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: normal;}
+.link2 {text-decoration: none; color: #0000FF; font-size: 12; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold;}
+.adtitle {text-decoration: underline; color: #0000FF; font-size: 8pt; font-family: Verdana, Arial, sans-serif; font-weight: bold;}
+A {text-decoration: none; color: #000000; font-size: 11; font-family: Arial, Verdana, Helvetica, sans-serif; font-weight: bold;}
+TD {FONT-SIZE:12; FONT-FAMILY:Arial, Verdana, Helvetica; COLOR:#000000;}
+a:hover {
+	color: #FF0000;
+	text-decoration: none;
+}
+
